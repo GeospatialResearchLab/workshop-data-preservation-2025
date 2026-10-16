@@ -15,7 +15,7 @@ Digital data doesn’t always stay put. Websites change, tools disappear, and va
 
 ## Materials
 
-- **Slides (PDF):** [`slides.pdf`](documents/slides.pdf)  
+- **Slides (PDF):** [`slides.pdf`](documents/Data_Preservation_2025.pdf)  
 
 ---
 
